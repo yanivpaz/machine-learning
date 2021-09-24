@@ -23,3 +23,5 @@ Deep learning AMI
 
 for learning use p2.xlarge ( c4.xlarge as alternative) 
 for adcance use case use other GPU instnace / FPGA/ AWS inferentia 
+
+eia1.large eia1.meduim - accelarator for elastic inference
