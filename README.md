@@ -11,12 +11,16 @@
 - kmeans (clusters)
 - bayesian 
 
-## Creating (training model) 
+## typical flow
 - train data 
 - input 75% of data to chosen algorythem
 - generate candidate model
 - input 25% test data 
 - compare target data with real vlaues in training data
+- repeat 
+
+application send data to model
+ 
 
 ## ML options on AWS 
 1) managed and trained 
