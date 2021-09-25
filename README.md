@@ -13,7 +13,8 @@
 
 ## Typical flow
 - prepare training  data 
-  * select features (input to problem) 
+  * select features (input to the problem) 
+  * 10 times data points as features ( 5 features need 50 data points)
 - input 75% of data to chosen algorithem
 - generate candidate model
 - input 25% test data 
@@ -22,9 +23,15 @@
 
 application use the model by sending parameters 
 
+## Terminology
+- label + feature = data points = obervations 
+- multiple observations = dataset 
+
 ## Supervised vs unsupervised 
  - supervised - label
  - unserupervised  - target
+ https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
+ 
  
 ## Models 
  - custom local - R , Tensorflow ( support deep learning)
