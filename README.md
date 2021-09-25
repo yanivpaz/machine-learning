@@ -31,17 +31,12 @@ application use the model by sending parameters
  - supervised - label
  - unserupervised  - target
  https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
- 
- 
-## Models 
- - custom local - R , Tensorflow ( support deep learning)
- - custom using cloud ( AWS services )
- - SAAS ( AWS lex, polly etc) 
 
 ## ML options on AWS 
-1) managed and trained 
+1) SAAS managed and trained 
 models already trained 
 can tweak models
+( AWS lex, polly etc) 
 
 2) managed  - sagemaker 
 can create model
