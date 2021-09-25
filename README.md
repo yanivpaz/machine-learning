@@ -11,8 +11,12 @@
 - kmeans (clusters)
 - bayesian 
 
-## creating model
-
+## Creating (training model) 
+- train data 
+- input 75% of data to chosen algorythem
+- generate candidate model
+- input 25% test data 
+- compare target data with real vlaues in training data
 
 ## ML options on AWS 
 1) managed and trained 
