@@ -1,7 +1,20 @@
-# machine-learning
+# Machine-learning
+## Categoruies
+- regression ( supervised ) - how much prodects we be sold ?
+- classification ( supervised ) - detect cat/dog
+- clusters ( unsupervised ) 
+
+## Algorithms 
+- decision tree
+- neural networks ( deep learning )
+- regression
+- kmeans (clusters)
+- bayesian 
+
+## creating model
+
 
 ## ML options on AWS 
-
 1) managed and trained 
 models already trained 
 can tweak models
@@ -15,7 +28,7 @@ no control on the infrastructure
 full control on everything
 special pre configured AMIS with support to relevant platforms like pytorch , Tensorflow ,Keras 
 
-## DLAMI
+### AWS DLAMI
 Deep learning AMI
 
 - DLAMI with Conda - all frameworks are installed 
