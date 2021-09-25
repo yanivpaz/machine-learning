@@ -1,14 +1,16 @@
 # Machine-learning
 
 ## Supervised vs unsupervised 
- - supervised - label ( the trainer can be machine or person ) 
+ - supervised - label ( the trainer who set the label can be machine or person ) 
+   input/output relation is known 
  - unserupervised  - target
+   input/output relation is unknown 
  https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
  
 ## Categories 
 - regression ( supervised ) - predicting stock , looking for number 
 - classification ( supervised ) - detect cat/dog
-- clusters - multi classification  ( unsupervised ) - categorize people 
+- clustering  - ( unsupervised ) - categorize people 
 
 ## Algorithms 
 more than 700 types 
@@ -17,7 +19,7 @@ more than 700 types
 - regression
 - kmeans (clusters)
 - bayesian 
-- reinforcment 
+- reinforcement ( based on feedback , ie pacman - the reward is being changed and influence the next movemnt )
 
 ## Typical flow
 - prepare training  data 
