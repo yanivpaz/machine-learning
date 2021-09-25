@@ -1,4 +1,10 @@
 # Machine-learning
+
+## Supervised vs unsupervised 
+ - supervised - label ( the trainer can be machine or person ) 
+ - unserupervised  - target
+ https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
+ 
 ## Categories 
 - regression ( supervised ) - predicting stock , looking for number 
 - classification ( supervised ) - detect cat/dog
@@ -30,11 +36,6 @@ application use the model by sending parameters
 ## Terminology
 - label + feature = data points = obervations 
 - multiple observations = dataset 
-
-## Supervised vs unsupervised 
- - supervised - label ( the trainer can be machine or person ) 
- - unserupervised  - target
- https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
 
 ## Visualizations
 - histograms 
