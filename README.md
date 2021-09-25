@@ -15,6 +15,7 @@
 - prepare training  data 
   * select features (input to the problem) 
   * 10 times data points as features ( 5 features need 50 data points)
+  * imputation - the assignment of a value to something by inference from the value of the products or processes to which it contributes
 - input 75% of data to chosen algorithem
 - generate candidate model
 - input 25% test data 
@@ -31,6 +32,10 @@ application use the model by sending parameters
  - supervised - label
  - unserupervised  - target
  https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
+
+## Visualizations
+- histograms 
+- scatter plots - relationshipts between features and labels 
 
 ## ML options on AWS 
 1) SAAS managed and trained 
