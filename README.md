@@ -11,7 +11,7 @@
 - kmeans (clusters)
 - bayesian 
 
-## typical flow
+## Typical flow
 - train data 
 - input 75% of data to chosen algorythem
 - generate candidate model
@@ -19,14 +19,17 @@
 - compare target data with real vlaues in training data
 - repeat 
 
-application send data to model
+application use the model by sending parameters 
  
+## Models 
+ - custom local - R , Tensorflow ( support deep learning)
+ - custom using cloud ( AWS services )
+ - SAAS ( AWS lex, polly etc) 
 
 ## ML options on AWS 
 1) managed and trained 
 models already trained 
 can tweak models
-
 
 2) managed  - sagemaker 
 can create model
