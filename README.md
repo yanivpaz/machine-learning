@@ -1,8 +1,8 @@
 # Machine-learning
-## Categoruies
-- regression ( supervised ) - how much prodects we be sold ?
+## Categories 
+- regression ( supervised ) - predicting stock , looking for number 
 - classification ( supervised ) - detect cat/dog
-- clusters ( unsupervised ) 
+- clusters - multi classification  ( unsupervised ) - categorize people 
 
 ## Algorithms 
 - decision tree
@@ -12,14 +12,19 @@
 - bayesian 
 
 ## Typical flow
-- train data 
-- input 75% of data to chosen algorythem
+- prepare training  data 
+  * select features (input to problem) 
+- input 75% of data to chosen algorithem
 - generate candidate model
 - input 25% test data 
 - compare target data with real vlaues in training data
 - repeat 
 
 application use the model by sending parameters 
+
+## Supervised vs unsupervised 
+ - supervised - label
+ - unserupervised  - target
  
 ## Models 
  - custom local - R , Tensorflow ( support deep learning)
