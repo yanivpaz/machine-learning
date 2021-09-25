@@ -11,7 +11,7 @@ neural network : https://www.youtube.com/watch?v=aircAruvnKk
 ## deep learning 
 https://app.pluralsight.com/library/courses/deep-learning-big-picture/table-of-contents
 
-## tenserflow2 
+## tensorflow2 
 https://app.pluralsight.com/library/courses/getting-started-tensorflow-20/table-of-contents
 
 ## face recognition using Tenserflow 
