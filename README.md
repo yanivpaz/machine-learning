@@ -16,6 +16,7 @@
 more than 700 types 
 - decision tree
 - neural networks ( deep learning )
+  - CNN - image processing 
 - regression
 - kmeans (clusters)
 - bayesian 
