@@ -23,14 +23,14 @@ more than 700 types
 - reinforcement ( based on feedback , ie pacman - the reward is being changed and influence the next movemnt )
 
 ## Typical flow
-- prepare training  data 
+- prepare training  data ( feature and lables ) 
   * remove noisy data points for accurate results 
   * select features (input to the problem) 
   * 10 times data points as features ( 5 features need 50 data points)
   * imputation - the assignment of a value to something by inference from the value of the products or processes to which it contributes
 - input 75% of data to chosen algorithem
 - generate candidate model
-- input 25% test data 
+- input 25% test data (only include features)
 - compare target data with real vlaues in training data
 - repeat 
 
