@@ -4,3 +4,6 @@ https://app.pluralsight.com/course-player?clipId=7595d7b4-3cfd-4747-abb5-07931ea
 
 ## deep learning 
 https://app.pluralsight.com/library/courses/deep-learning-big-picture/table-of-contents
+
+## additional 
+https://scikit-learn.org/stable/
