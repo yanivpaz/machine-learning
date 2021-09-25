@@ -13,14 +13,21 @@
 - clustering  - ( unsupervised ) - categorize people 
 
 ## Algorithms 
-more than 700 types 
+* supervised : 
+- regression
 - decision tree
+- K neareast neighbour
 - neural networks ( deep learning )
   - CNN - image processing 
-- regression
+
+* unsupervised :
 - kmeans (clusters)
-- bayesian 
-- reinforcement ( based on feedback , ie pacman - the reward is being changed and influence the next movemnt )
+- anomlay detecation 
+- neural networks ( deep learning )
+
+* reinforcement ( based on feedback , ie pacman - the reward is being changed and influence the next movemnt )
+- q learning 
+- SARSA
 
 ## Typical flow
 - prepare training  data ( feature and lables ) 
