@@ -3,9 +3,9 @@ https://app.pluralsight.com/course-player?clipId=04eca966-c07a-4afb-b1d4-af92e6d
 https://app.pluralsight.com/course-player?clipId=7595d7b4-3cfd-4747-abb5-07931eaacde2  
 
 ## overview
-Crash course : https://developers.google.com/machine-learning/crash-course
-MIT : http://introtodeeplearning.com/
-https://www.youtube.com/watch?v=aircAruvnKk
+Crash course : https://developers.google.com/machine-learning/crash-course  
+MIT : http://introtodeeplearning.com/  
+https://www.youtube.com/watch?v=aircAruvnKk  
 
 
 ## deep learning 
