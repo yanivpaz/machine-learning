@@ -5,14 +5,17 @@
 - clusters - multi classification  ( unsupervised ) - categorize people 
 
 ## Algorithms 
+more than 700 types 
 - decision tree
 - neural networks ( deep learning )
 - regression
 - kmeans (clusters)
 - bayesian 
+- reinforcment 
 
 ## Typical flow
 - prepare training  data 
+  * remove noisy data points for accurate results 
   * select features (input to the problem) 
   * 10 times data points as features ( 5 features need 50 data points)
   * imputation - the assignment of a value to something by inference from the value of the products or processes to which it contributes
@@ -29,7 +32,7 @@ application use the model by sending parameters
 - multiple observations = dataset 
 
 ## Supervised vs unsupervised 
- - supervised - label
+ - supervised - label ( the trainer can be machine or person ) 
  - unserupervised  - target
  https://datascience.stackexchange.com/questions/44108/difference-between-a-target-and-a-label-in-machine-learning
 
