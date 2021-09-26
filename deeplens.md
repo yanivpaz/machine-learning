@@ -16,3 +16,10 @@ mplayer -demuxer lavf /opt/awscam/out/ch1_out.h264
 ```
 - upload first model   
 https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-get-start-easy.html  
+
+
+## Face recognition process 
+https://aws.amazon.com/deeplens/community-projects/Family_Assistant/
+
+### deployment phase 
+https://github.com/ssolkhan/deeplens-challenge/blob/master/deeplens-face-detection-d90ecbd1-eeff-4ccd-abfa-0f4981e0525b/greengrassHelloWorld.py
