@@ -7,5 +7,11 @@ https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-troubleshooting-factory-
 
 
 ## Post installation steps
-- configure network 
-- register 
+- register the device in AWS deeplens
+- update the device 
+- connect to the device and view stream 
+```
+mplayer -demuxer lavf /opt/awscam/out/ch1_out.h264
+```
+- upload first model 
+https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-get-start-easy.html
