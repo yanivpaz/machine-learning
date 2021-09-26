@@ -23,3 +23,4 @@ https://aws.amazon.com/deeplens/community-projects/Family_Assistant/
 
 ### deployment phase 
 https://github.com/ssolkhan/deeplens-challenge/blob/master/deeplens-face-detection-d90ecbd1-eeff-4ccd-abfa-0f4981e0525b/greengrassHelloWorld.py
+https://youtu.be/BbFAm7lcnUU?t=130
